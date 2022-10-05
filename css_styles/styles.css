@@ -1,0 +1,15 @@
+ul.unorder {
+    list-style-type: circle;
+}
+ol.number {
+    list-style-type: numbers;
+}
+#top {
+    text-align: center;
+    color:#e6b710
+}
+.cat_pic {
+    width: 50%;
+    margin: auto;
+    display:block;
+}
